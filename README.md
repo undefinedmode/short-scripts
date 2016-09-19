@@ -1,2 +1,2 @@
 # short-scripts
-Repository of random short scripts to automate repetitive things.
+Repository of random short scripts to automate repetitive tasks.
