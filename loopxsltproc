@@ -1,0 +1,1 @@
+for f in $(find . -iname '*.xml'); do xsltproc "$f" -o "$f".html; done
